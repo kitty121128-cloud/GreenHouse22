@@ -1,0 +1,20 @@
+{
+  "name": "綠之屋｜餐廳介紹",
+  "short_name": "綠之屋",
+  "description": "綠之屋餐廳介紹：營業時間、用餐規定、公休日、支付方式、套餐與單點、菜單與社群帳號。",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fbf8f0",
+  "theme_color": "#2f6b4f",
+  "lang": "zh-Hant",
+  "icons": [
+    {
+      "src": "assets/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
